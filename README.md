@@ -1,7 +1,6 @@
 # Customer-Flight-Satisfaction-Prediction-Sample1-Kamal
 Sample Project - Goal is to predict Customer Satisfaction for Airline Service
 
-
 # Customer Flight Satisfaction Prediction
 The Dataset consists information of Passenger boarding and de-boarding info and the services provided during the travel on board.
 
@@ -17,7 +16,7 @@ The train set contains **83123** rows and **24** column
 
 The test set contains **20781**
 
-
+![enter image description here](https://github.com/KamalenduChatterjee/Customer-Flight-Satisfaction-Prediction-Sample1-Kamal/blob/main/Image2.png?raw=true)
 
 | Id | Unique Id |
 |--|--|
@@ -25,5 +24,4 @@ The test set contains **20781**
 | Age|  Age of the passenger|
 
 You can Check the notebook by clicking here 
-
 :star::fire::star:
